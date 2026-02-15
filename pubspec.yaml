@@ -1,0 +1,26 @@
+name: csv_quick_stats
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ^3.10.8
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.0.0
+  equatable: ^2.0.5
+  get_it: ^8.0.0
+  csv: ^6.0.0
+  file_picker: ^8.0.0
+  fpdart: ^1.1.0
+  cupertino_icons: ^1.0.2
+  fl_chart: ^0.66.0
+  data_table_2: ^2.5.10
+  path_provider: ^2.1.2
+  share_plus: ^10.1.0
+  lottie: ^3.3.2
+flutter:
+  uses-material-design: true
+  assets:
+     - assets/animations/animation1.json
+     - assets/animations/animation2.json
