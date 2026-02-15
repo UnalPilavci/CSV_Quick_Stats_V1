@@ -61,7 +61,7 @@ Follow the steps below to run this project on your local machine:
 
 2.  **Enter the Project Directory:**
     ```bash
-    cd csv_quick_stats
+    cd CSV_Quick_Stats_V1
     ```
 
 3.  **Install Dependencies:**
