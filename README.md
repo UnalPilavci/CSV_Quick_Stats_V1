@@ -56,7 +56,7 @@ Follow the steps below to run this project on your local machine:
 
 1.  **Clone the Project:**
     ```bash
-    git clone https://github.com/UnalPilavci/Csv_Quick_Start.git
+    git clone https://github.com/UnalPilavci/CSV_Quick_Stats_V1.git
     ```
 
 2.  **Enter the Project Directory:**
